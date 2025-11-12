@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://canyonhousegames.github.io/canyon-house-art-productions-site/sitemap.xml
